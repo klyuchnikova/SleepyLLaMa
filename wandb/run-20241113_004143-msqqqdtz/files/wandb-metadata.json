@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-5.4.210-39.1.bert2-x86_64-with-glibc2.35",
+  "python":  "3.12.4",
+  "startedAt":  "2024-11-12T21:41:43.582277Z",
+  "program":  "code/SleepyLLaMa/train.ipynb",
+  "git":  {
+    "remote":  "https://github.com/klyuchnikova/SleepyLLaMa.git",
+    "commit":  "07435c605ad307d843bab520956a75d27ca93e62"
+  },
+  "email":  "ulyana.klyuchnikova@gmail.com",
+  "root":  "/home/klyuliana/code/SleepyLLaMa",
+  "host":  "brain-damage-machine.sas.yp-c.yandex.net",
+  "username":  "klyuliana",
+  "executable":  "/home/klyuliana/anaconda3/bin/python",
+  "cpu_count":  48,
+  "cpu_count_logical":  48,
+  "gpu":  "Tesla V100-PCIE-32GB",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "262969421824",
+      "used":  "93267763200"
+    }
+  },
+  "memory":  {
+    "total":  "61196648448"
+  },
+  "cpu":  {
+    "count":  48,
+    "countLogical":  48
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla V100-PCIE-32GB",
+      "memoryTotal":  "34359738368",
+      "cudaCores":  5120,
+      "architecture":  "Volta"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}
